@@ -16,7 +16,6 @@ Bu dosyanın içerisindeki komutları kendinize göre düzenleyin. pr_on=1 komut
 
 Bir kez başlatmanız yeterli daha sonrasında $cnum sayıda otomatik yol kontrolü  yapar dosya sisteminde bulunan örn "*.plot" adındaki dosyaları $json_path GOOGLE auth dosyasınıı kullnarak bir kez auth olunan projenizdeki buckup'a yükleme yapar.
 
-Önerilen: temp kalsörünün bir tanesini ram olarak 101Gib mount ederseniz [madmax plotter=1] 40dk da plot hızına ulaşma imkanı vardır.
 
     # [INPUT]
     # Gcloud path 
