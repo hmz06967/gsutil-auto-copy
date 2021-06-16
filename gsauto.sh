@@ -8,7 +8,7 @@
 # Gcloud path 
 gpath=gs://rrbot_a1
 json_file=""  # url or path
- 
+plot_dir="/mnt/disk1"
 # crontap run time (min)
 cnum=10 #10dk
 
